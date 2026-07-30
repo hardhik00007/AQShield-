@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Environment
+.env
+
+# Build and coverage
+.coverage
+htmlcov/
+dist/
+build/
+
+# IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Frontend
+node_modules/
+
+# Local database
+*.db
+*.sqlite3
